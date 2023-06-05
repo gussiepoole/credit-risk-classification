@@ -23,7 +23,7 @@ By fitting an ML model to the loan status data I determine the credibility of lo
 
 <img width="422" alt="Screenshot 2023-03-27 at 11 29 00" src="https://user-images.githubusercontent.com/115706722/227916484-2f6943af-c16f-427e-a556-4e138b108185.png">
 
-**Analysis**
+## Analysis
 
 These reports show that by fitting the logistic regression model to the original data provided by the lending company, there is a cosniderable difference in recall scores. The difference in recall values between healthy (non-risky) loans, row '0' and un-healthy (risky) loans, row '1' indicates that the model will better predict unrisky loans than risky loans, which is not suitable for the context of our project.
 
